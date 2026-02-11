@@ -56,7 +56,7 @@ Upload documents → Ask questions → Get cited answers. **No data leaves your 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/localrag.git
+git clone https://github.com/EnigmaEngineer/localrag.git
 cd localrag
 
 # Create virtual environment
